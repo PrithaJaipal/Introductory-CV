@@ -1,2 +1,2 @@
 # Introductory-CV
-Computer Vision beginner codes
+Computer Vision beginner codes using Colaboratory
